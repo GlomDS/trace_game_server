@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+include_path=0;/trace_server\u00050;/trace_server/plugin/curry-1.4.12
+phpVersion=php7.0
+use_asp_tags_as_php=false
